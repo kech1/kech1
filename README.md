@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joey
-- 👀 I’m interested in engieering material
+- 👀 I’m interested in engineering material
 - 🌱 I’m currently learning coding to describe material using computer language
 - 💞️ I’m looking to collaborate on building a engineering database for all material and equipment, devices applied for construction site.
 - 📫 How to reach me through kejunchen@outlook.com
